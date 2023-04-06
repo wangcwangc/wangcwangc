@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
+### My GitHub Contributions  
+![](https://github.com/wangcwangc/wangcwangc/blob/main/assets/github-contribution-grid-snake.svg)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangcwangc&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 **wangcwangc/wangcwangc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
